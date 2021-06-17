@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for sharing your codes like in the section below:
 
 ## Sample markdown Codes: 
-//section below  after --- are all in WINDOWS
+// Cannot use comments in GITHUB
 ```markdown
 Syntax highlighted code block
 
@@ -31,8 +31,6 @@ Sample Testing:
 [My Webpage](in mark down, url will be seen in clear)
 ![NASA](put URL here)
 ```
-//END OF MARKDOWN
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
