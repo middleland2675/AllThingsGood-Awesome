@@ -26,13 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 Sample Testing:
-[My Webpage]('https://middleland2675.github.io/AllThingsGood-Awesome/')
-![NASA](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.fortune.com%2Fwp-content%2Fuploads%2F2020%2F03%2FNASA-Hiring-Astronauts-2020.jpg&imgrefurl=https%3A%2F%2Ffortune.com%2F2020%2F03%2F02%2Fnasa-hiring-astronauts-2020-artemis-moon-mars%2F&tbnid=1uWuusuv8ZxDbM&vet=12ahUKEwjv9YvK8p3xAhXhsksFHdwHBskQMygGegUIARDgAQ..i&docid=1W27LVsYKQwdVM&w=1688&h=1125&q=nasa&ved=2ahUKEwjv9YvK8p3xAhXhsksFHdwHBskQMygGegUIARDgAQ')
+[My Webpage](https://middleland2675.github.io/AllThingsGood-Awesome/)
+![NASA](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.fortune.com%2Fwp-content%2Fuploads%2F2020%2F03%2FNASA-Hiring-Astronauts-2020.jpg&imgrefurl=https%3A%2F%2Ffortune.com%2F2020%2F03%2F02%2Fnasa-hiring-astronauts-2020-artemis-moon-mars%2F&tbnid=1uWuusuv8ZxDbM&vet=12ahUKEwjv9YvK8p3xAhXhsksFHdwHBskQMygGegUIARDgAQ..i&docid=1W27LVsYKQwdVM&w=1688&h=1125&q=nasa&ved=2ahUKEwjv9YvK8p3xAhXhsksFHdwHBskQMygGegUIARDgAQ
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Jekyll Themes
+### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/middleland2675/AllThingsGood-Awesome/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
