@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Website for All THINGS GOOD & AWESOME
 
 You can use the [editor on GitHub](https://github.com/middleland2675/AllThingsGood-Awesome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,10 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Bulleted just by using - xxx
+- List just by using - yyy 
 
-1. Numbered
+1. Numbered just by using Num. xxx
 2. List
 
 **Bold** and _Italic_ and `Code` text
