@@ -24,10 +24,15 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+*This text will be italic* / _This will also be italic_ (single underscore)
+**This text will be bold** / __This will also be bold__ (DOUBLE underscore)
+_You **can** combine them_
+
+Example of showing codes in markdown: > 'aws -- version'
 
 [Link](url) and ![Image](src)
 
-Sample Testing:
+*Sample Testing*:
 [My Webpage](in mark down, url will be seen in clear)
 ![NASA](put URL here)
 ```
