@@ -23,16 +23,17 @@ Syntax highlighted code block
 1. Numbered just by using Num. xxx
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ DON'T work in mark down:
 *This text will be italic* / _This will also be italic_ (single underscore)
 **This text will be bold** / __This will also be bold__ (DOUBLE underscore)
 _You **can** combine them_
 
+Use `Code` to show codes
 Example of showing codes in markdown: > `aws -- version`
 
 [Link](url) and ![Image](src)
 
-*Sample Testing*:
+Sample Testing:
 [My Webpage](in mark down, url will be seen in clear)
 ![NASA](put URL here)
 ```
@@ -40,7 +41,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/middleland2675/AllThingsGood-Awesome/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your *Pages* site will use the **layout and styles** from the Jekyll theme you have selected in your [repository settings](https://github.com/middleland2675/AllThingsGood-Awesome/settings/pages). The name of this theme is saved in the **Jekyll** `_config.yml` configuration file.
 
 ### Support or Contact
 
