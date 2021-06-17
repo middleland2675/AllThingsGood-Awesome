@@ -28,7 +28,7 @@ Syntax highlighted code block
 **This text will be bold** / __This will also be bold__ (DOUBLE underscore)
 _You **can** combine them_
 
-Example of showing codes in markdown: > 'aws -- version'
+Example of showing codes in markdown: > `aws -- version`
 
 [Link](url) and ![Image](src)
 
